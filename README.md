@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/discord/886733267284398130.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge">
 </p>
 
+![MindRune](mind-rune.webp)
+
 # MindRune
 
 A gameplay tracker which builds a graph database and rewards player contributions to enable mindrune.xyz to provide tailored features to players based on their player graph.
