@@ -18,7 +18,7 @@ Visit mindrune.xyz to learn more about MindRune.
 
 Note: Web3 sign in allows for authentication without trusting MindRune with your email or password. It is your responsibility to keep your wallet safe.
 
-# How to install it
+# How to install
 
 - Download RuneLite from their website: https://runelite.net
 - Launch RuneLite
