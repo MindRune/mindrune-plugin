@@ -33,9 +33,10 @@ You are now contributing to MindRune!
 # Account
 
 Visit mindrune.xyz/account to watch your account graph grow. As more data is collected, new connections are made, revealing unseen information!
-Example: ![Graph1](Capture.JPG)
 
-Exmaple:![Graph2](Capture2.JPG)
+![Graph1](Capture.JPG)
+
+![Graph2](Capture2.JPG)
 
 # Scoreboard
 
