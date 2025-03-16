@@ -4,15 +4,15 @@
 
 # MindRune
 
-A gameplay tracker which builds a graph database and rewards player contributions to enable mindrune.xyz to provide tailored features to players based on their player graph.
+A lightweight gameplay tracker which builds a graph database and rewards player contributions to enable mindrune.xyz to provide tailored features to players based on their player graph.
 
-No passwords, emails, IP, or chat information is ever stored by MindRune.
+MindRune does not capture any emails, passwords, IPs, or chat logs.
 
 Visit mindrune.xyz to learn more about MindRune.
 
 # How to Register
 
-- Visit mindrune.xyz
+- Visit https://mindrune.xyz
 - Connect with your desired web3 wallet and agree to terms of use.
 - Navigate to your account and copy your registration key
 
