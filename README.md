@@ -1,10 +1,6 @@
-<p align="center"><img width=60% src=""></p>
-
 <p align="center">
-  <img src="https://img.shields.io/discord/886733267284398130.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge">
+  <img src="mind-rune.webp" alt="MindRune">
 </p>
-
-![MindRune](mind-rune.webp)
 
 # MindRune
 
