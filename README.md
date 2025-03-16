@@ -6,10 +6,10 @@
 
 A gameplay tracker which builds a graph database and rewards player contributions to enable mindrune.xyz to provide tailored features to players based on their player graph.
 
+![Graph1](Capture.JPG) ![Graph2](Capture2.JPG)
+
 No passwords, emails, IP, or chat information is ever stored by MindRune.
-
 Visit mindrune.xyz to learn more about MindRune.
-
 Events are sent to The MindRune Graph in 1 minute intervals.
 
 # How to Register
@@ -35,7 +35,6 @@ You are now contributing to MindRune!
 # Account
 
 Visit mindrune.xyz/account to watch your account graph grow. As more data is collected, new connections are made, revealing unseen information!
-![Graph1](Capture.JPG) ![Graph2](Capture2.JPG)
 
 # Scoreboard
 
