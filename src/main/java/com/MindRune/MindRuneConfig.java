@@ -10,7 +10,8 @@ public interface MindRuneConfig extends Config
 	@ConfigItem(
 			keyName = "registrationKey",
 			name = "Registration Key",
-			description = "Your RuneBoy registration key"
+			description = "Your RuneBoy registration key",
+			secret = true
 	)
 	default String registrationKey() {
 		return "";
