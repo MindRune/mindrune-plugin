@@ -36,7 +36,7 @@ Note: Web3 sign in allows for authentication without trusting MindRune with your
 
 You are now contributing to MindRune!
 
-![MindRune Memoery](mindrune-memory.JPG)
+![MindRune Memory](memory-capture.JPG)
 
 # Account
 
