@@ -32,7 +32,7 @@ Note: Web3 sign in allows for authentication without trusting MindRune with your
 - Click Install
 - Configure your MindRune Registration key found at mindrune.xyz to your MindRune plugin.
 
-![MindRune Menu](mindrune-menu-1.JPG)
+![MindRune Menu](mindrune-menu.JPG)
 
 You are now contributing to MindRune!
 
