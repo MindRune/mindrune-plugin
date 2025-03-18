@@ -50,14 +50,6 @@ Visit mindrune.xyz/account to watch your account graph grow. As more data is col
 
 Visit mindrune.xyz/scoreboard to see where you rank among other MindRune contributors!
 
-# Claim
-
-A TBD claiming portal to reward MindRune contributors based on their score.
-
-# Forge
-
-A TBD interface to combine memories into unique digital collectibles.
-
 # Links
 
 [Discord](https://discord.gg/74S5vRkNP7) - Our Discord server.
