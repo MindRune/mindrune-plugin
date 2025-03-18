@@ -16,6 +16,8 @@ Visit mindrune.xyz to learn more about MindRune.
 - Connect with your desired web3 wallet and agree to terms of use.
 - Navigate to your account and copy your registration key
 
+![MindRune Registration](mindrune-registration.JPG)
+
 Note: Web3 sign in allows for authentication without trusting MindRune with your email or password. It is your responsibility to keep your wallet safe.
 
 # How to install
@@ -28,7 +30,11 @@ Note: Web3 sign in allows for authentication without trusting MindRune with your
 - Click Install
 - Configure your MindRune Registration key found at mindrune.xyz to your MindRune plugin.
 
+![MindRune Menu](mindrune-menu-1.JPG)
+
 You are now contributing to MindRune!
+
+![MindRune Memoery](mindrune-memory.JPG)
 
 # Account
 
