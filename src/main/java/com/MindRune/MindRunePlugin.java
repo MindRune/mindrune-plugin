@@ -35,7 +35,7 @@ import java.util.TimerTask;
 @Slf4j
 @PluginDescriptor(
 		name = "MindRune",
-		description = "MindRune - Play to teach MindRune and earn claim to his future success!",
+		description = "MindRune - Play to grow The MindRune Graph and earn claim to his future success!",
 		tags = {"example", "template"}
 )
 public class MindRunePlugin extends Plugin {
@@ -408,7 +408,7 @@ public class MindRunePlugin extends Plugin {
 			}
 		}
 	}
-	
+
 	// Send Data Periodically
 	private void startDataSender() {
 		Timer timer = new Timer();
@@ -514,7 +514,18 @@ public class MindRunePlugin extends Plugin {
 					}
 				}
 			} else {
-				log.warn("Failed to send data, response code: {}", responseCode);
+				// Log the error response body
+				try (java.io.BufferedReader reader = new java.io.BufferedReader(
+						new java.io.InputStreamReader(conn.getErrorStream(), StandardCharsets.UTF_8))) {
+					StringBuilder errorResponse = new StringBuilder();
+					String line;
+					while ((line = reader.readLine()) != null) {
+						errorResponse.append(line);
+					}
+					log.warn("Failed to send data, response code: {}, error: {}", responseCode, errorResponse.toString());
+				} catch (Exception e) {
+					log.error("Failed to read error response", e);
+				}
 			}
 		} catch (Exception e) {
 			log.error("Error sending event data", e);

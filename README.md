@@ -2,7 +2,7 @@
   <img src="mind-rune.webp" alt="MindRune">
 </p>
 
-# MindRune
+# MindRune Plugin
 
 A lightweight gameplay tracker which builds a graph database and rewards player contributions to enable mindrune.xyz to provide tailored features to players based on their player graph.
 
