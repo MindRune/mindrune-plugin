@@ -4,7 +4,9 @@
 
 # MindRune Plugin
 
-A lightweight gameplay tracker which builds a graph database and rewards player contributions to enable mindrune.xyz to provide tailored features to players based on their player graph.
+A lightweight gameplay tracker which builds a graph database for each player.
+
+Player contributions enable mindrune.xyz to provide tailored features to players based on their player graph.
 
 MindRune does not capture any emails, passwords, IPs, or chat logs.
 
