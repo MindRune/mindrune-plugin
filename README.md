@@ -10,7 +10,7 @@ Player contributions enable mindrune.xyz to provide tailored features to players
 
 MindRune does not capture any emails, passwords, IPs, or chat logs.
 
-Visit mindrune.xyz to learn more about MindRune.
+Visit [mindrune.xyz](https://mindrune.xyz) to learn more about MindRune.
 
 # How to Register
 
